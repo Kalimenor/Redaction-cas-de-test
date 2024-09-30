@@ -7,11 +7,7 @@ Dans le cadre de notre processus d'assurance qualité, nous avons élaboré des 
 #### URL de la page : [https://inscription.it-akademy.fr/](https://inscription.it-akademy.fr/)
 
 #### **Modules à Tester :**
-<div style="display: flex; justify-content: space-around;">
-    <img src="img/crea.png" width="250" height="400" />
-    <img src="img/cone.png" width="250" height="400" />
-    <img src="img/mdp.png" width="250" height="400" />
-</div>
+![Module 1](img/crea.png | width=250) ![Module 2](img/cone.png | width=250) ![Module 3](img/mdp.png | width=250)
 
 #### **Tests Non-Fonctionnels :**
 - **Compatibilité Navigateur** : Tests sur différents navigateurs (Chrome, Safari, Edge, Opera, etc.)
