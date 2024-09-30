@@ -1,7 +1,6 @@
 # Rédaction de cas de test / test fonctionnel
 Afin de nous familiariser avec la rédaction de cas de test et les bonnes pratiques concernant l'exécution de tests, nous avons mis en place des tests fonctionnels sur trois modules du site de notre organisme de formation.<br/> Le but est de tester les différents modules afin de déceler les éventuels défauts.<br/>
 
-### Le résultat final du TP est consultable [ICI](https://drive.google.com/file/d/1720sAVumFVjLeetIUoWe4jqj9G7Rctfy/view?usp=sharing)
 ### Le tableau de synthèse est consultable [ICI](https://docs.google.com/spreadsheets/d/1Jrd9wfgYacOR8oP4kxeDFXGI0FDILyfVdYa4s2JK7Ac/edit?gid=0#gid=0).
 
 
