@@ -3,8 +3,7 @@
 Afin de nous familiariser avec la rédaction de cas de test et les bonnes pratiques concernant l'exécution de tests, nous avons mis en place des tests fonctionnels sur trois modules du site de notre organisme de formation.  
 Le but est de tester les différents modules afin de déceler les éventuels défauts.
 
-### Résultats
-- Le résultat final du TP est consultable [ICI](https://docs.google.com/document/d/1vI5JxGKx1jrLjcEfJl8qr3uH3XB2AuanOvYpOkJeO1w/edit)
+### Synthèse
 - Le tableau de synthèse est consultable [ICI](https://docs.google.com/spreadsheets/d/1Jrd9wfgYacOR8oP4kxeDFXGI0FDILyfVdYa4s2JK7Ac/edit?gid=0#gid=0)
 
 ### URL de la page à tester
