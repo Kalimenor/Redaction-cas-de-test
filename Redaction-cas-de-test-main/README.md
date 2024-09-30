@@ -27,7 +27,7 @@ Afin de nous familiariser avec la rédaction de cas de test et les bonnes pratiq
 <img src="img/nom.png" width="700" height="350" />
 
 #### Rédaction des cas de test 
-<img src="img/cas.png" width="700" height="350" />
+![redaction cas de test](https://github.com/user-attachments/assets/dd2e1ed3-bfe9-48df-b92c-014a3905da41)
 
 #### Mise en place d'un tableau de synthèse 
 <img src="img/synth.png" width="700" height="350" />
