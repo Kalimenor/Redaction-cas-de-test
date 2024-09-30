@@ -1,35 +1,38 @@
-# Rédaction de cas de test / test fonctionnel
-Afin de nous familiariser avec la rédaction de cas de test et les bonnes pratiques concernant l'exécution de tests, nous avons mis en place des tests fonctionnels sur trois modules du site de notre organisme de formation.<br/> Le but est de tester les différents modules afin de déceler les éventuels défauts.<br/>
+# Rédaction de Cas de Test / Tests Fonctionnels
 
-### Le résultat final du TP est consultable [ICI](https://drive.google.com/file/d/1720sAVumFVjLeetIUoWe4jqj9G7Rctfy/view?usp=sharing)
-### Le tableau de synthese est consultable [ICI](https://docs.google.com/spreadsheets/d/1aA-Ja7k0X32QP9de1RDb1nQrjWDv9Zh2IIMYlnGd0h0/pubhtml?gid=0&single=true)
+Dans le cadre de notre processus d'assurance qualité, nous avons élaboré des tests fonctionnels pour trois modules du site de notre organisme de formation. L'objectif de ces tests est d'identifier d'éventuels défauts et de garantir le bon fonctionnement de chaque module.
 
-#### URL de la page: https://inscription.it-akademy.fr/ <br/>
-#### **Module à tester (test fonctionnel):**
-<img src="img/crea.png" width="250" height="400" />   <img src="img/cone.png" width="250" height="400" />   <img src="img/mdp.png" width="250" height="400" />
-#### **Test non-fonctionnel:** 
-  - Test de compatibilité navigateur (chrome, safari, edge, opéra...)
-  - Test des messages d'erreur
-  - Test de l'état de déconnexion 
+### Le tableau de synthèse est consultable [ICI](https://docs.google.com/spreadsheets/d/1Jrd9wfgYacOR8oP4kxeDFXGI0FDILyfVdYa4s2JK7Ac/edit?gid=0#gid=0).
 
-#### Déroulé:
-  - Définition dela stratégie de test
-    - Regle de nommage
-    - Stratégie de test fonctionnel
-    - Stratégie de test non-fonctionnel
-  - Rédaction des cas de test
-  - Execution des tests
-  - Automatisaton des tests --> [Script Python](script/test_connexion.py)
+#### URL de la page : [https://inscription.it-akademy.fr/](https://inscription.it-akademy.fr/)
 
-## Voici un appercu des étapes clés 
-#### Règles de nommage
+#### **Modules à Tester :**
+![Module 1](img/crea.png) ![Module 2](img/cone.png) ![Module 3](img/mdp.png)
+
+#### **Tests Non-Fonctionnels :**
+- **Compatibilité Navigateur** : Tests sur différents navigateurs (Chrome, Safari, Edge, Opera, etc.)
+- **Gestion des Messages d'Erreur** : Vérification de l'affichage correct des messages d'erreur.
+- **État de Déconnexion** : Tests sur le comportement du site après déconnexion.
+
+### Déroulement des Tests :
+1. **Définition de la Stratégie de Test**
+   - Règles de Nommage
+   - Stratégie de Test Fonctionnel
+   - Stratégie de Test Non-Fonctionnel
+2. **Rédaction des Cas de Test**
+3. **Exécution des Tests**
+4. **Automatisation des Tests** → [Script Python](script/test_connexion.py)
+
+## Aperçu des Étapes Clés :
+
+#### Règles de Nommage
 <img src="img/nom.png" width="700" height="350" />
 
-#### Rédaction des cas de test 
-<img src="img/cas.png" width="700" height="350" />
+#### Rédaction des Cas de Test 
+![Rédaction des Cas de Test](https://github.com/user-attachments/assets/dd2e1ed3-bfe9-48df-b92c-014a3905da41)
 
-#### Mise en place d'un tableau de synthèse 
-<img src="img/synth.png" width="700" height="350" />
+#### Mise en Place d'un Tableau de Synthèse 
+![Tableau de Synthèse](https://github.com/user-attachments/assets/286ec0ab-daa3-4c73-bc26-d39ba7ab614a)
 
-#### Automatisation des tests --> [Script Python](script/test_connexion.py)
+#### Automatisation des Tests 
 <img src="img/auto.gif" width="900" height="450" />
