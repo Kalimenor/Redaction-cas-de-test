@@ -1,21 +1,61 @@
-# Rédaction de cas de test / test fonctionnel
-Afin de nous familiariser avec la rédaction de cas de test et les bonnes pratiques concernant l'exécution de tests, nous avons mis en place des tests fonctionnels sur trois modules du site de notre organisme de formation.<br/> Le but est de tester les différents modules afin de déceler les éventuels défauts.<br/>
+# Rédaction de Cas de Test / Test Fonctionnel
 
-### Le résultat final du TP est consultable [ICI](https://docs.google.com/document/d/1vI5JxGKx1jrLjcEfJl8qr3uH3XB2AuanOvYpOkJeO1w/edit).
-### Le tableau de synthese est consultable [ICI](https://docs.google.com/spreadsheets/d/1aA-Ja7k0X32QP9de1RDb1nQrjWDv9Zh2IIMYlnGd0h0/pubhtml?gid=0&single=true)
+Afin de nous familiariser avec la rédaction de cas de test et les bonnes pratiques concernant l'exécution de tests, nous avons mis en place des tests fonctionnels sur trois modules du site de notre organisme de formation.  
+Le but est de tester les différents modules afin de déceler les éventuels défauts.
 
-#### URL de la page: https://inscription.it-akademy.fr/ <br/>
-#### **Module à tester (test fonctionnel):**
-#### **Test non-fonctionnel:** 
-  - Test de compatibilité navigateur (chrome, safari, edge, opéra...)
-  - Test des messages d'erreur
-  - Test de l'état de déconnexion 
+### Résultats
+- Le résultat final du TP est consultable [ICI](https://docs.google.com/document/d/1vI5JxGKx1jrLjcEfJl8qr3uH3XB2AuanOvYpOkJeO1w/edit)
+- Le tableau de synthèse est consultable [ICI](https://docs.google.com/spreadsheets/d/1aA-Ja7k0X32QP9de1RDb1nQrjWDv9Zh2IIMYlnGd0h0/pubhtml?gid=0&single=true)
 
-#### Déroulé:
-  - Définition dela stratégie de test
-    - Regle de nommage
-    - Stratégie de test fonctionnel
-    - Stratégie de test non-fonctionnel
-  - Rédaction des cas de test
-  - Execution des tests
-  - Automatisaton des tests
+### URL de la page à tester
+[https://inscription.it-akademy.fr/](https://inscription.it-akademy.fr/)
+
+---
+
+## Modules à Tester (Tests Fonctionnels)
+
+![it 1](https://github.com/user-attachments/assets/8f8de54c-f680-4f8f-b667-df121406eb76)  
+![it 2](https://github.com/user-attachments/assets/b8a0fe56-a97a-481e-acde-f809c3676aad)  
+![it 3](https://github.com/user-attachments/assets/94d01e9e-f14c-4da7-8961-702059cb6b7a)
+
+---
+
+## Tests Non-Fonctionnels
+- **Test de compatibilité navigateur** (Chrome, Safari, Edge, Opera...)
+- **Test des messages d'erreur** : Vérification de la gestion des erreurs sur le site.
+- **Test de l'état de déconnexion** : Vérification du comportement lorsque l'utilisateur est déconnecté.
+
+---
+
+## Déroulé des Tests
+1. **Définition de la stratégie de test** :
+   - Règles de nommage
+   - Stratégie de test fonctionnel
+   - Stratégie de test non-fonctionnel
+2. **Rédaction des cas de test**
+3. **Exécution des tests**
+4. **Automatisation des tests** : Mise en place via un script Python.
+
+---
+
+## Aperçu des Étapes
+
+### 1. Règles de Nommage
+
+![règle de nommage](https://github.com/user-attachments/assets/fc011198-169a-4130-9679-8f879cfc1cf7)
+
+---
+
+### 2. Rédaction des Cas de Test
+
+![redaction cas de test](https://github.com/user-attachments/assets/d89506f8-7228-45ac-a229-1cedc4e21682)
+
+---
+
+### 3. Mise en Place d'un Tableau de Synthèse
+
+![Capture d'écran 2024-09-30 120344](https://github.com/user-attachments/assets/40f559d8-61e9-4076-a16b-37b2eed9f6f0)
+
+---
+
+
