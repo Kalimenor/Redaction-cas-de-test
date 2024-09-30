@@ -5,7 +5,7 @@ Le but est de tester les différents modules afin de déceler les éventuels dé
 
 ### Résultats
 - Le résultat final du TP est consultable [ICI](https://docs.google.com/document/d/1vI5JxGKx1jrLjcEfJl8qr3uH3XB2AuanOvYpOkJeO1w/edit)
-- Le tableau de synthèse est consultable [ICI](https://docs.google.com/spreadsheets/d/1aA-Ja7k0X32QP9de1RDb1nQrjWDv9Zh2IIMYlnGd0h0/pubhtml?gid=0&single=true)
+- Le tableau de synthèse est consultable [ICI](https://docs.google.com/spreadsheets/d/1Jrd9wfgYacOR8oP4kxeDFXGI0FDILyfVdYa4s2JK7Ac/edit?gid=0#gid=0)
 
 ### URL de la page à tester
 [https://inscription.it-akademy.fr/](https://inscription.it-akademy.fr/)
