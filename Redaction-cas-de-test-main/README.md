@@ -30,7 +30,7 @@ Afin de nous familiariser avec la rédaction de cas de test et les bonnes pratiq
 ![redaction cas de test](https://github.com/user-attachments/assets/dd2e1ed3-bfe9-48df-b92c-014a3905da41)
 
 #### Mise en place d'un tableau de synthèse 
-<img src="img/synth.png" width="700" height="350" />
+![Capture d'écran 2024-09-30 120344](https://github.com/user-attachments/assets/286ec0ab-daa3-4c73-bc26-d39ba7ab614a)
 
 #### Automatisation des tests --> [Script Python](script/test_connexion.py)
 <img src="img/auto.gif" width="900" height="450" />
