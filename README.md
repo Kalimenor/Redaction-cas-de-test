@@ -15,10 +15,11 @@ Le but est de tester les différents modules afin de déceler les éventuels dé
 ## Modules à Tester (Tests Fonctionnels)
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/8f8de54c-f680-4f8f-b667-df121406eb76" alt="it 1" width="30%" />
-  <img src="https://github.com/user-attachments/assets/b8a0fe56-a97a-481e-acde-f809c3676aad" alt="it 2" width="30%" />
-  <img src="https://github.com/user-attachments/assets/94d01e9e-f14c-4da7-8961-702059cb6b7a" alt="it 3" width="30%" />
+  <img src="https://github.com/user-attachments/assets/8f8de54c-f680-4f8f-b667-df121406eb76" alt="it 1" width="32%" />
+  <img src="https://github.com/user-attachments/assets/b8a0fe56-a97a-481e-acde-f809c3676aad" alt="it 2" width="32%" />
+  <img src="https://github.com/user-attachments/assets/94d01e9e-f14c-4da7-8961-702059cb6b7a" alt="it 3" width="32%" />
 </div>
+
 
 
 ---
