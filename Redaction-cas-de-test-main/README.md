@@ -5,6 +5,7 @@ Afin de nous familiariser avec la rédaction de cas de test et les bonnes pratiq
 ### Le tableau de synthèse est consultable [ICI](https://docs.google.com/spreadsheets/d/1aA-Ja7k0X32QP9de1RDb1nQrjWDv9Zh2IIMYlnGd0h0/pubhtml?gid=0&single=true)
 
 
+
 #### URL de la page: https://inscription.it-akademy.fr/ <br/>
 #### **Module à tester (test fonctionnel):**
 <img src="img/crea.png" width="250" height="400" />   <img src="img/cone.png" width="250" height="400" />   <img src="img/mdp.png" width="250" height="400" />
