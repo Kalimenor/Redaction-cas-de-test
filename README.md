@@ -6,7 +6,6 @@ Afin de nous familiariser avec la rédaction de cas de test et les bonnes pratiq
 
 #### URL de la page: https://inscription.it-akademy.fr/ <br/>
 #### **Module à tester (test fonctionnel):**
-<img src="img/crea.png" width="250" height="400" />   <img src="img/cone.png" width="250" height="400" />   <img src="img/mdp.png" width="250" height="400" />
 #### **Test non-fonctionnel:** 
   - Test de compatibilité navigateur (chrome, safari, edge, opéra...)
   - Test des messages d'erreur
@@ -23,13 +22,10 @@ Afin de nous familiariser avec la rédaction de cas de test et les bonnes pratiq
 
 ## Voici un appercu des étapes clés 
 #### Règles de nommage
-<img src="img/nom.png" width="700" height="350" />
 
 #### Rédaction des cas de test 
-<img src="img/cas.png" width="700" height="350" />
 
 #### Mise en place d'un tableau de synthèse 
-<img src="img/synth.png" width="700" height="350" />
 
 #### Automatisation des tests --> [Script Python](script/test_connexion.py)
 <img src="img/auto.gif" width="900" height="450" />
